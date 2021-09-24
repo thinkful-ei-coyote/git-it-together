@@ -1,6 +1,6 @@
-let favoriteThings = ['gumbo', 'cats', 'video game', 'hot cheetos', 
-'flowers', 'gumby','cheeses', 'collard green', 
-'sitting', 'eating', 'coffee','the internet'];
+let favoriteThings = ['gumbo', 'dogs', 'video game', 'hot cheeto', 
+'jumping', 'gumby','cheeses', 'collard green', 
+'sitting', 'wine', 'coffee','the internet'];
 
 
 let firstVerse = favoriteThings.slice(0,4);
